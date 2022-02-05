@@ -1,1 +1,5 @@
-export const sendX = () => 2;
+const sendX = () => 2;
+
+module.exports = {
+  sendX,
+};

@@ -1,5 +1,7 @@
+var indexModule = require( "./index" );
+
 describe("My work", () => {
   test("works", () => {
-    expect(2).toEqual(2);
+    expect(indexModule.sendX()).toEqual(2);
   });
 });

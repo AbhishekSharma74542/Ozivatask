@@ -1,1 +1,2 @@
-{}
+{"/Users/abhish/Documents/Ozivatask/index.js": {"path":"/Users/abhish/Documents/Ozivatask/index.js","statementMap":{"0":{"start":{"line":1,"column":14},"end":{"line":1,"column":21}},"1":{"start":{"line":1,"column":20},"end":{"line":1,"column":21}},"2":{"start":{"line":3,"column":0},"end":{"line":5,"column":2}}},"fnMap":{"0":{"name":"(anonymous_0)","decl":{"start":{"line":1,"column":14},"end":{"line":1,"column":15}},"loc":{"start":{"line":1,"column":20},"end":{"line":1,"column":21}},"line":1}},"branchMap":{},"s":{"0":1,"1":1,"2":1},"f":{"0":1},"b":{},"_coverageSchema":"1a1c01bbd47fc00a2c39e90264f33305004495a9","hash":"abd8ce5563b1daddd6ab870f95d875babfe9b609"}
+}
